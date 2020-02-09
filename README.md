@@ -1,5 +1,5 @@
 # E-voting-blockchain-Hackinfinity
 
-##run :-
+## run :-
 
 ### npm install OR yarn install
