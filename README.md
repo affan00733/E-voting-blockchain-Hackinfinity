@@ -1,4 +1,4 @@
-# E-voting-blockchain-Hackinfinity
+# E-voting-blockchain-Hackinfinity With Face-Authentication (Deep-Learning)
 
 ## requirement :-
 #### truffle
